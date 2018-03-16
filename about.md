@@ -5,4 +5,5 @@ permalink: /about/
 tags: about
 ---
 
-Things I like.
+Exposition, lecture notes, musings, and announcements
+on tcs-related mathematics.
