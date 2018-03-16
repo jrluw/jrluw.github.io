@@ -5,5 +5,5 @@ permalink: /about/
 tags: about
 ---
 
-Exposition, lecture notes, musings, and announcements
+Exposition, lecture notes, announcements, and musings
 on tcs-related mathematics.
