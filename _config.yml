@@ -3,8 +3,7 @@ title:       tcs math
 email:       jrl@cs.washington.edu
 author:      James R. Lee
 description: "some mathematics & computation"
-baseurl:     "/~jrl/tcsmath/"
-url:         "https://homes.cs.washington.edu"
+url:         "https://jrluw.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
